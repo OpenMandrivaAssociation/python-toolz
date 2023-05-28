@@ -30,3 +30,6 @@ A set of utility functions for iterators, functions, and dictionaries.
 
 
 %files
+%{python_sitelib}/toolz/
+%{python_sitelib}/toolz-%{version}-py*.*.egg-info/
+%{python_sitelib}/tlz/
