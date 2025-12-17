@@ -2,7 +2,7 @@
 
 Name:           python-%{srcname}
 Version:        1.0.0
-Release:        1
+Release:        2
 Summary:        A functional standard library for Python
 Group:          Development/Python
 License:        BSD
