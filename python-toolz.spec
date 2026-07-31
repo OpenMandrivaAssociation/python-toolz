@@ -1,8 +1,8 @@
 %global srcname toolz
 
 Name:           python-%{srcname}
-Version:        1.0.0
-Release:        2
+Version:        1.1.0
+Release:        1
 Summary:        A functional standard library for Python
 Group:          Development/Python
 License:        BSD
@@ -20,7 +20,7 @@ BuildRequires:  python3dist(wheel)
 A set of utility functions for iterators, functions, and dictionaries.
 
 %prep
-%autosetup -p1 -n %{srcname}-%{version}
+%autosetup -p1 -n toolz-1.1.0
 
 %build
 %py_build
