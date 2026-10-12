@@ -1,7 +1,7 @@
 %global srcname toolz
 
 Name:           python-%{srcname}
-Version:        1.1.0
+Version:        1.2.0
 Release:        1
 Summary:        A functional standard library for Python
 Group:          Development/Python
